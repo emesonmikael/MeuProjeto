@@ -2,15 +2,16 @@
   "expo": {
     "name": "MeuProjeto",
     "slug": "MeuProjeto",
-    "versionsss": "1.0.0",
+    "versions": "1.0.0",
+     "jsEngine": "jsc",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff",
-       "jsEngine": "jsc"
+      "backgroundColor": "#ffffff"
+      
     },
     "ios": {
       "supportsTablet": true
